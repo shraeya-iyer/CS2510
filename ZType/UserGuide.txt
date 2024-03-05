@@ -1,0 +1,26 @@
+Welcome to my ZType game!
+
+
+
+How to Begin: 
+
+1. To begin playing the game, make sure you have an IDE downloaded that can process java. You will then be able to import my code file into your IDE and click "run." 
+
+2. Once the program begins running, a white box should pop up with words beginning to appear from the top of the screen and dropping downwards. The words will constantly drop down and a new word will be generated with every two drops of the existing words. 
+
+3. The purpose of the game is to keep the words from dropping to the very bottom of the game screen. If you do, an end screen will appear stating, "Game Over."
+
+
+
+
+How to Play:
+
+1. To play, begin typing any word you see on a screen. You can only type one word at a time, and you may not begin typing another word before you finish typing the one you already started.
+
+2. There is no penalty for typos - but you may not move onto the next word until you have fully and correctly typed the current word.
+
+3. The word you begin typing will turn from green to pink, indicating that it is the "active" word, or the word you may continue to type. Once you finish typing it, it will disappear from the screen and you may pick any other word to type.
+
+
+
+Best of luck with game play, and have fun!
